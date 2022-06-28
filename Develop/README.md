@@ -10,5 +10,7 @@ A web app that allows user to create a random password
 
 ## Website
 
+http://127.0.0.1:5501/Develop/index.html
+
 ## Contribution
 Made with ❤️ by Christian Garcia
