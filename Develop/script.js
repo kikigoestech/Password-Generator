@@ -31,8 +31,6 @@ uppercaseArray [1]
 
 
 
-
-
 // if condition of arrays
 
 if (numbers){
@@ -63,13 +61,7 @@ for (var i = 0; i < numCharacter; i++) {
 }
 
  
-
-
- 
-
-
-
- // Write password to the #password input
+// Write password to the #password input
 
 function writePassword() {
   var password = generatePassword();
@@ -84,12 +76,3 @@ generateBtn.addEventListener("click", writePassword);
 
 
 
-
-   
-
-// 1. Prompt the user for the password criteria
-//   a. Password length 8 < 12
-//   b. Lowercase, uppercase, numbers, special characters
-// 2. Validate the input
-// 3. Generate password based on criteria
-// 4. Display password to the page
