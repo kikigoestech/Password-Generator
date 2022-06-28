@@ -1,9 +1,3 @@
-// 1. Prompt the user for the password criteria
-//   a. Password length 8 < 12
-//   b. Lowercase, uppercase, numbers, special characters
-// 2. Validate the input
-// 3. Generate password based on criteria
-// 4. Display password to the page
 
 
 var generateBtn = document.querySelector("#generate");
