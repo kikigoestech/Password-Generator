@@ -11,4 +11,4 @@ A web app that allows user to create a random password
 ## Website
 
 ## Contribution
-Made with ❤️ by Christian
+Made with ❤️ by Christian Garcia
